@@ -1,0 +1,19 @@
+{
+  "name": "node_financial-control",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/chalfel/node_financial-control.git",
+  "author": "chalfel <caiohalcsik@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-prettier": "^6.10.0",
+    "eslint-plugin-prettier": "^3.1.2",
+    "nodemon": "^2.0.2",
+    "prettier": "^1.19.1"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.9.5"
+  }
+}
