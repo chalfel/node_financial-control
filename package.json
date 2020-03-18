@@ -5,6 +5,9 @@
   "repository": "https://github.com/chalfel/node_financial-control.git",
   "author": "chalfel <caiohalcsik@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "dev": "nodemon src/server.js"
+  },
   "devDependencies": {
     "eslint": "^6.8.0",
     "eslint-config-prettier": "^6.10.0",
